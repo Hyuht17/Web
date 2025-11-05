@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "AI và Tương Lai Của Công Nghệ",
+        "category": "Công nghệ",
+        "description": "Trí tuệ nhân tạo đang thay đổi cách chúng ta làm việc và sinh hoạt. Các chuyên gia dự đoán AI sẽ tạo ra cuộc cách mạng lớn trong thập kỷ tới, ảnh hưởng đến mọi ngành nghề từ y tế, giáo dục đến sản xuất.",
+        "imageUrl": "https://res.cloudinary.com/dhmutopv5/image/upload/v1753863008/spx2-8_sp4sgh.png",
+        "date": "22/10/2025"
+    },
+    {
+        "id": 2,
+        "title": "Thị Trường Chứng Khoán Tăng Trưởng Mạnh",
+        "category": "Kinh tế",
+        "description": "Thị trường chứng khoán trong nước ghi nhận phiên tăng điểm ấn tượng với thanh khoản cao. VN-Index vượt mốc quan trọng, khối ngoại tiếp tục mua ròng, tạo tín hiệu tích cực cho xu hướng tăng trưởng.",
+        "imageUrl": "https://res.cloudinary.com/dhmutopv5/image/upload/v1753863008/spx2-8_sp4sgh.png",
+        "date": "22/10/2025"
+    },
+    {
+        "id": 3,
+        "title": "Đội Tuyển Việt Nam Chiến Thắng Ấn Tượng",
+        "category": "Thể thao",
+        "description": "Trong trận đấu vừa qua, đội tuyển Việt Nam đã có màn trình diễn xuất sắc, giành chiến thắng thuyết phục với tỷ số 3-0. Đây là bước tiến quan trọng trên hành trình chinh phục ngôi vương khu vực.",
+        "imageUrl": "https://res.cloudinary.com/dhmutopv5/image/upload/v1753863008/spx2-8_sp4sgh.png",
+        "date": "22/10/2025"
+    },
+    {
+        "id": 4,
+        "title": "Các Nước Ký Kết Hiệp Định Thương Mại Lớn",
+        "category": "Thế giới",
+        "description": "Các nước châu Á vừa ký kết một hiệp định thương mại toàn diện, nhằm thúc đẩy hợp tác kinh tế khu vực. Dự kiến sẽ tạo cơ hội phát triển mới cho các doanh nghiệp xuất khẩu.",
+        "imageUrl": "https://res.cloudinary.com/dhmutopv5/image/upload/v1753863008/spx2-8_sp4sgh.png",
+        "date": "22/10/2025"
+    },
+    {
+        "id": 5,
+        "title": "Chương Trình Giáo Dục Mới Khởi Động Năm Học",
+        "category": "Xã hội",
+        "description": "Bộ Giáo dục và Đào tạo triển khai chương trình giáo dục mới nhằm nâng cao chất lượng dạy học. Chương trình tập trung vào phát triển kỹ năng thực tiễn cho học sinh.",
+        "imageUrl": "https://res.cloudinary.com/dhmutopv5/image/upload/v1753863008/spx2-8_sp4sgh.png",
+        "date": "22/10/2025"
+    },
+    {
+        "id": 6,
+        "title": "Công Ty Công Nghệ Mở Văn Phòng Mới Tại Hà Nội",
+        "category": "Công nghệ",
+        "description": "Một công ty công nghệ hàng đầu thế giới vừa mở văn phòng đại diện tại Hà Nội. Điều này cho thấy sự quan tâm ngày càng tăng của các nhà đầu tư nước ngoài đối với thị trường công nghệ Việt Nam.",
+        "imageUrl": "https://res.cloudinary.com/dhmutopv5/image/upload/v1753863008/spx2-8_sp4sgh.png",
+        "date": "22/10/2025"
+    }
+]

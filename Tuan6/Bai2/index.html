@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tin Tức 24h - Cập nhật tin tức mới nhất</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Tạo header -->
+    <header>
+        <h1>Tin Tức 24h</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Trang chủ</a></li>
+                <li><a href="#">Thế giới</a></li>
+                <li><a href="#">Kinh tế</a></li>
+                <li><a href="#">Công nghệ</a></li>
+                <li><a href="#">Thể thao</a></li>
+                <li><a href="#">Liên hệ</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Tin Nóng Hôm Nay</h2>
+            <p>Cập nhật tin tức mới nhất 24/7 từ trong nước và quốc tế. Chúng tôi mang đến những thông tin chính xác, nhanh chóng và đáng tin cậy về mọi lĩnh vực: chính trị, kinh tế, xã hội, công nghệ, thể thao và giải trí.</p>
+        </section>
+
+        <!-- Danh sách tin tức -->
+        <section id="product-list">
+            <h2>Tin Tức Nổi Bật</h2>
+            
+            <!-- Tin tức 1 -->
+            <article class="product-item">
+                <img src="https://res.cloudinary.com/dhmutopv5/image/upload/v1753863008/spx2-8_sp4sgh.png" alt="Tin công nghệ">
+                <h3>AI và Tương Lai Của Công Nghệ</h3>
+                <p>Trí tuệ nhân tạo đang thay đổi cách chúng ta làm việc và sinh hoạt. Các chuyên gia dự đoán AI sẽ tạo ra cuộc cách mạng lớn trong thập kỷ tới, ảnh hưởng đến mọi ngành nghề từ y tế, giáo dục đến sản xuất.</p>
+                <p class="price"><strong>Thể loại:</strong> <span>Công nghệ</span> | <span>22/10/2025</span></p>
+            </article>
+
+            <!-- Tin tức 2 -->
+            <article class="product-item">
+                <img src="https://res.cloudinary.com/dhmutopv5/image/upload/v1753863008/spx2-8_sp4sgh.png" alt="Tin kinh tế">
+                <h3>Thị Trường Chứng Khoán Tăng Trưởng Mạnh</h3>
+                <p>Thị trường chứng khoán trong nước ghi nhận phiên tăng điểm ấn tượng với thanh khoản cao. VN-Index vượt mốc quan trọng, khối ngoại tiếp tục mua ròng, tạo tín hiệu tích cực cho xu hướng tăng trưởng.</p>
+                <p class="price"><strong>Thể loại:</strong> <span>Kinh tế</span> | <span>22/10/2025</span></p>
+            </article>
+
+            <!-- Tin tức 3 -->
+            <article class="product-item">
+                <img src="https://res.cloudinary.com/dhmutopv5/image/upload/v1753863008/spx2-8_sp4sgh.png" alt="Tin thể thao">
+                <h3>Đội Tuyển Việt Nam Chiến Thắng Ấn Tượng</h3>
+                <p>Trong trận đấu vừa qua, đội tuyển Việt Nam đã có màn trình diễn xuất sắc, giành chiến thắng thuyết phục với tỷ số 3-0. Đây là bước tiến quan trọng trên hành trình chinh phục ngôi vương khu vực.</p>
+                <p class="price"><strong>Thể loại:</strong> <span>Thể thao</span> | <span>22/10/2025</span></p>
+            </article>
+        </section>
+
+        <!-- Form đăng ký nhận tin -->
+        <section>
+            <h2>Đăng Ký Nhận Tin Tức</h2>
+            <form>
+                <div>
+                    <label for="name">Họ và tên:</label>
+                    <input type="text" id="name" name="name" placeholder="Nhập họ tên của bạn" required>
+                </div>
+
+                <div>
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" placeholder="example@email.com" required>
+                </div>
+
+                <div>
+                    <label for="message">Tin nhắn / Góp ý:</label>
+                    <textarea id="message" name="message" rows="5" placeholder="Để lại lời nhắn hoặc góp ý của bạn..." required></textarea>
+                </div>
+
+                <div>
+                    <button type="submit">Đăng Ký Ngay</button>
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Tin Tức 24h - Cập nhật tin tức nhanh và chính xác</p>
+        <p>Email: contact@tintuc24h.com | Hotline: 1900-xxxx | Địa chỉ: Hà Nội, Việt Nam</p>
+    </footer>
+</body>
+</html>
